@@ -1,1 +1,1 @@
-# simple_shell
+my first simple shell project
